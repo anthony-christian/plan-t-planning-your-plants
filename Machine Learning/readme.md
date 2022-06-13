@@ -8,6 +8,7 @@ There are 8 classes of plants.
 
 ## Dataset
 - [Drive](https://drive.google.com/drive/folders/1ajFgqdUiTkwgOUJZMjuOZV8tDweemG49?usp=sharing)
+- [Source](https://www.kaggle.com/datasets/ryanpartridge01/wild-edible-plants)
 
 ### Applied .tflite to Android
 The model in this repository is designed to run on android applications. The following is a documentation guide for using the .tflite model in android studio (We use kotlin)
